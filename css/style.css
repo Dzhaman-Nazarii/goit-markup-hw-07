@@ -435,23 +435,6 @@ img {
 
 
 
-.card__header {
-	margin-bottom: 4px;
-	font-weight: 700;
-	font-size: 18px;
-	line-height: 2;
-	letter-spacing: 0.06em;
-	color: var(--color-hero);
-}
-
-.card__subheader {
-	font-size: 16px;
-	line-height: 1.875;
-	color: var(--color-paragraph);
-	letter-spacing: 0.03em;
-	margin: 0 auto;
-}
-
 .menu__btn {
 	font-family: 'Roboto';
 	padding: 6px 22px;
@@ -543,6 +526,23 @@ img {
 
 .overlay:hover .card__overlay {
 	transform: translateY(0);
+}
+
+.card__header {
+	margin-bottom: 4px;
+	font-weight: 700;
+	font-size: 18px;
+	line-height: 2;
+	letter-spacing: 0.06em;
+	color: var(--color-hero);
+}
+
+.card__subheader {
+	font-size: 16px;
+	line-height: 1.875;
+	color: var(--color-paragraph);
+	letter-spacing: 0.03em;
+	margin: 0 auto;
 }
 
 
